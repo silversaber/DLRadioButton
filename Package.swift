@@ -20,7 +20,7 @@ let package = Package(
 	targets: [
 		.target(
 			name: "DLRadioButton",
-			path: "/DLRadioButton"
+			path: "DLRadioButton"
 		)
 	]
 )
