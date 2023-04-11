@@ -19,7 +19,8 @@ let package = Package(
 	],
 	targets: [
 		.target(
-			name: "DLRadioButton"
+			name: "DLRadioButton",
+			path: "DLRadioButton"
 		)
 	]
 )
